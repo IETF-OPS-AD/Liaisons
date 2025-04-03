@@ -4,10 +4,15 @@ that the ITU is soliciting feedback for a work related to an IETF-developed
 technology: Segment Routing over IPv6 (SRv6). We acknoweldge that the technical report
 does not alter any SRv6 specification or seek to specify new SRv6 requirements outside of IETF's work.
 
-We confirm that the specifications listed as "Core SRv6 Standards" in
-the attached document to the LS reflect all SRv6-related Proposed Standards
-published so far by the IETF. These RFCs were produced by several Working Groups (WGs),
-mainly SPRING, 6MAN, and OPSAWG.
+The specifications listed as "Core SRv6 Standards" in the attached document to
+the LS reflect a subset of SRv6-related Proposed Standards published so far by the IETF.
+These RFCs were produced by several Working Groups (WGs), mainly SPRING, 6MAN, and OPSAWG.
+
+Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665 and RFC8666) do not
+apply with an IPv6 data plane. Also, the correct names for RFC 8665 and RFC 8665 is as follows:
+
+    * RFC 8666: OSPF Extensions for Segment Routing
+    * RFC 8665: OSPFv3 Extensions for Segment Routing 
 
 While ensuring better interoperability is one of the key objectives of the IETF
 specifications, the IETF does not produce formal conformance test suites per se. However, the IETF
