@@ -5,12 +5,12 @@ technology: Segment Routing over IPv6 (SRv6). We acknoweldge that the technical 
 does not aim to alter any SRv6 specification or seek to specify new SRv6 requirements outside of IETF's work.
 
 The specifications listed as "Core SRv6 Standards" in the attached document to
-the LS reflect a subset of SRv6-related Proposed Standards published so far by the IETF.
+the LS are a subset of SRv6-related Proposed Standards published so far by the IETF.
 These RFCs were produced by several Working Groups (WGs), mainly SPRING, 6MAN, and OPSAWG.
 The full list of published RFCs can be retrieved from [2].
 
 Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, 8666, and 8667) do not
-apply with an IPv6 data plane. Also, the correct names for these RFCs is as follows:
+apply with an IPv6 data plane. Also, the correct names for these RFCs are as follows:
 
    * RFC 8666: OSPF Extensions for Segment Routing
    * RFC 8665: OSPFv3 Extensions for Segment Routing
