@@ -1,4 +1,4 @@
-We would like to thank the ITU for informing us about the new work item
+We would like to thank the ITU-T-SG-11 for informing the IETF about the new work item
 QSTR.MVC "Method for Verifying Conformance to SRv6" [1]. Specifically, we appreciate
 that the ITU is soliciting feedback for a work related to an IETF-developed
 technology: Segment Routing over IPv6 (SRv6). We acknoweldge that the technical report
@@ -17,8 +17,8 @@ apply with an IPv6 data plane. Also, the correct names for these RFCs are as fol
    * RFC 8665: IS-IS Extensions for Segment Routing
 
 Note that some other SRv6-related specifications are being finalized by SPRING.
-Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] is planned for
-publication by the IETF in the coming few months.
+Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
+and is planned for publication by the IETF in the coming few months.
 
 While ensuring better interoperability is one of the key objectives of the IETF
 specifications, the IETF does not produce formal conformance test suites per se. However, the IETF
