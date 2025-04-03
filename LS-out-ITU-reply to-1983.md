@@ -22,7 +22,7 @@ and is planned for publication by the IETF in the coming few months.
 
 While ensuring better interoperability is one of the key objectives of the IETF
 specifications, the IETF does not produce formal conformance test suites per se. However, the IETF
-has a Working Group (WG) that is chartered for Benchmarking Methodology (BMWG WG) [4].
+has a WG that is chartered for Benchmarking Methodology (BMWG WG) [4].
 
 For information, the BMWG is actively working on an SR-related benchmarking
 methodology specification [5] with a focus on performance for both SRv6 and SR-MPLS.
