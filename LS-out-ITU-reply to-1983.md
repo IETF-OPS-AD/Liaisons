@@ -2,7 +2,7 @@ We would like to thank the ITU for informing us about the new work item
 QSTR.MVC "Method for Verifying Conformance to SRv6" [1]. Specifically, we appreciate
 that the ITU is soliciting feedback for a work related to an IETF-developed
 technology: Segment Routing over IPv6 (SRv6). We acknoweldge that the technical report
-does not seek to alter or specify new SRv6 new requirements outside of IETF’s work.
+does not alter any SRv6 specification or seek to specify new SRv6 requirements outside of IETF's work.
 
 We confirm that the specifications listed as "Core SRv6 Standards" in
 the attached document to the LS reflect all SRv6-related Proposed Standards
