@@ -14,7 +14,7 @@ apply with an IPv6 data plane. Also, the correct names for these RFCs are as fol
 
    * RFC 8666: OSPF Extensions for Segment Routing
    * RFC 8665: OSPFv3 Extensions for Segment Routing
-   * RFC 8665: IS-IS Extensions for Segment Routing
+   * RFC 8667: IS-IS Extensions for Segment Routing
 
 Note that some other SRv6-related specifications are being finalized by SPRING.
 Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
