@@ -12,8 +12,8 @@ The full list of published RFCs can be retrieved from [2].
 Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, 8666, and 8667) do not
 apply with an IPv6 data plane. Also, the correct names for these RFCs are as follows:
 
-   * RFC 8666: OSPF Extensions for Segment Routing
-   * RFC 8665: OSPFv3 Extensions for Segment Routing
+   * RFC 8665: OSPF Extensions for Segment Routing
+   * RFC 8666: OSPFv3 Extensions for Segment Routing
    * RFC 8667: IS-IS Extensions for Segment Routing
 
 Note that some other SRv6-related specifications are being finalized by SPRING.
