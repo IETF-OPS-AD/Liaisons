@@ -33,7 +33,7 @@ as the most effective and expedient way of exchanging information, answering que
 and progressing any work.
 
 For specific questions related to a given SRv6-related specification, we encourage
-the use the respective mailing list of the WG that produced that specification.
+the use of the mailing list of the WG that produced that specification.
  
 
 OPS Area Directors: Mohamed Boucadair & Mahesh Jethanandani
