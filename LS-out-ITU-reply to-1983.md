@@ -4,18 +4,21 @@ that the ITU is soliciting feedback for a work related to an IETF-developed
 technology: Segment Routing over IPv6 (SRv6). We acknoweldge that the technical report
 does not aim to alter any SRv6 specification or seek to specify new SRv6 requirements outside of IETF's work.
 
-The specifications listed as "Core SRv6 Standards" in the attached document to
-the LS are a subset of SRv6-related Proposed Standards published so far by the IETF. The IETF does not
-identify a subset of SRv6-related specifications as "Core SRv6 Standards". 
 There are several Working Groups (WGs) in the IETF 
 (mainly SPRING, 6MAN, BMWG, BESS, IDR, LSR, PCE, RTGWG, TEAS, and OPSAWG) that are working
 on SRv6-related specifications. The links to all active IETF WGs can be found at [2].
 Further, the list of RFCs published by each of the WG are available on each WG's page.
 
-Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, 8666, and 8667) do not
-apply for SRv6 but for SR-MPLS. Some RFCs (e.g., RFC 9256) apply for both SRv6 and SR-MPLS.
+The specifications listed as "Core SRv6 Standards" in the attached document to
+the LS are a subset of SRv6-related Proposed Standards published so far by the IETF. The IETF does not
+identify a subset of SRv6-related specifications as "Core SRv6 Standards". We understand that this is
+a classification that it is specific to ITU-T-SG-11. 
+
+Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, RFC 8666, and RFC 8667) do not
+apply for SRv6, but for SR-MPLS. Some RFCs (e.g., RFC 9256) apply for both SRv6 and SR-MPLS.
 A review of the RFCs listed on the WGs pages will provide information on their applicability to SRv6.
-Also, the correct names for these RFCs are as follows:
+Also, the name of some of the listed RFCs should be corrected as follows:
+
    * RFC 8665: OSPF Extensions for Segment Routing
    * RFC 8666: OSPFv3 Extensions for Segment Routing
    * RFC 8667: IS-IS Extensions for Segment Routing
@@ -23,11 +26,13 @@ Also, the correct names for these RFCs are as follows:
 Note that some other SRv6-related specifications are being finalized by SPRING.
 Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
 and is planned for publication by the IETF in the coming few months.
+
 When referring to aspects of the IETF standards as "mandatory" or "optional", it is recommended to 
-provide a reference to the specific section and text from the specific RFC. This will
-avoid misalignment with IETF standards. For example, RFC 8754 does not specify the usage of "Tag" in 
-the SRH (it only introduces the Tag field in the SRH) but the ITU document marks 
-'Packet Tagging and Tag Processing' as mandatory. There are other similar misalignments.
+provide a reference to the specific section and text from the specific RFC. This approach
+avoids misalignment with IETF standards. For example, RFC 8754 does not specify the usage of "Tag" in 
+the SRH (it only introduces the "Tag" field in the SRH), but the ITU technical report marks 
+"Packet Tagging and Tag Processing" as mandatory. There are other similar misalignments that need to be
+adjusted.
 
 While ensuring better interoperability is one of the key objectives of the IETF
 specifications, the IETF does not produce formal conformance test suites per se. However, the IETF
