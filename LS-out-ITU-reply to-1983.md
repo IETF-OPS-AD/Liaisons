@@ -7,7 +7,7 @@ does not aim to alter any SRv6 specification or seek to specify new SRv6 require
 The specifications listed as "Core SRv6 Standards" in the attached document to
 the LS are a subset of SRv6-related Proposed Standards published so far by the IETF. The IETF does not
 identify a subset of SRv6-related specifications as "Core SRv6 Standards". 
-At the time of this LS response, there are several Working Groups (WGs) in the IETF 
+There are several Working Groups (WGs) in the IETF 
 (mainly spring, 6man, bess, idr, lsr, pce, rtgwg, teas, and opsawg) that are working
 on SRv6 related specifications. The links to all active IETF WGs can be found at [2].
 Further, the list of RFCs published by each of the WG are available on each WG's page.
