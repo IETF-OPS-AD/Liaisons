@@ -19,7 +19,6 @@ Also, the correct names for these RFCs are as follows:
    * RFC 8665: OSPF Extensions for Segment Routing
    * RFC 8666: OSPFv3 Extensions for Segment Routing
    * RFC 8667: IS-IS Extensions for Segment Routing
-the publication process with the RFC Editor.
 
 Note that some other SRv6-related specifications are being finalized by SPRING.
 Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
