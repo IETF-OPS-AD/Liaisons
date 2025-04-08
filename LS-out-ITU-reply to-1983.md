@@ -31,6 +31,9 @@ This specification is planned for publication by the end of 2025.
 For future collaboration on these matters, we encourage the use of BMWG WG mailing list [6]
 as the most effective and expedient way of exchanging information, answering questions,
 and progressing any work.
+
+For specific questions related to a given SRv6-related specification, we encourage
+the use the respective mailing list of the WG that produced that specification.
  
 
 OPS Area Directors: Mohamed Boucadair & Mahesh Jethanandani
