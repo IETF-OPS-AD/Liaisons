@@ -23,6 +23,9 @@ Note that some other SRv6-related specifications (notably, "Compressed SRv6 Segm
 List Encoding (CSID) [3]) may be approved for publication as an RFC and are under
 the publication process with the RFC Editor.
 
+Note that some other SRv6-related specifications are being finalized by SPRING.
+Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
+and is planned for publication by the IETF in the coming few months.
 When referring to aspects of the IETF standards as "mandatory" or "optional", it is recommended to 
 provide a reference to the specific section and text from the specific RFC. This will
 avoid misalignment with IETF standards. E.g., RFC 8754 does not specify the usage of Tag in 
