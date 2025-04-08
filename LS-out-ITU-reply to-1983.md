@@ -16,7 +16,9 @@ Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, 86
 apply for SRv6 but for SR-MPLS. Some RFCs (e.g., RFC 9256) apply for both SRv6 and SR-MPLS.
 A review of the RFCs listed on the WGs pages will provide information on their applicability to SRv6.
 Also, the correct names for these RFCs are as follows:
-
+   * RFC 8665: OSPF Extensions for Segment Routing
+   * RFC 8666: OSPFv3 Extensions for Segment Routing
+   * RFC 8667: IS-IS Extensions for Segment Routing
 Note that some other SRv6-related specifications (notably, "Compressed SRv6 Segment
 List Encoding (CSID) [3]) may be approved for publication as an RFC and are under
 the publication process with the RFC Editor.
