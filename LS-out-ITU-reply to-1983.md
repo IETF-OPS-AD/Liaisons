@@ -9,7 +9,7 @@ the LS are a subset of SRv6-related Proposed Standards published so far by the I
 identify a subset of SRv6-related specifications as "Core SRv6 Standards". 
 There are several Working Groups (WGs) in the IETF 
 (mainly SPRING, 6MAN, BMWG, BESS, IDR, LSR, PCE, RTGWG, TEAS, and OPSAWG) that are working
-on SRv6 related specifications. The links to all active IETF WGs can be found at [2].
+on SRv6-related specifications. The links to all active IETF WGs can be found at [2].
 Further, the list of RFCs published by each of the WG are available on each WG's page.
 
 Unlike what is stated in the report, some of the listed RFCs (e.g., RFC 8665, 8666, and 8667) do not
