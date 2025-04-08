@@ -26,7 +26,7 @@ the publication process with the RFC Editor.
 When referring to aspects of the IETF standards as "mandatory" or "optional", it is recommended to 
 provide a reference to the specific section and text from the specific RFC. This will
 avoid misalignment with IETF standards. E.g., RFC 8754 does not specify the usage of Tag in 
-the SRH (it only introduces the Tag field in the SRH) but the document marks 
+the SRH (it only introduces the Tag field in the SRH) but the ITU document marks 
 'Packet Tagging and Tag Processing' as mandatory. There are other similar misalignments.
 
 While ensuring better interoperability is one of the key objectives of the IETF
