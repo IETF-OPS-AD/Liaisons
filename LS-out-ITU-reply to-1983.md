@@ -25,7 +25,7 @@ Notably, "Compressed SRv6 Segment List Encoding (CSID)" [3] has been approved
 and is planned for publication by the IETF in the coming few months.
 When referring to aspects of the IETF standards as "mandatory" or "optional", it is recommended to 
 provide a reference to the specific section and text from the specific RFC. This will
-avoid misalignment with IETF standards. E.g., RFC 8754 does not specify the usage of Tag in 
+avoid misalignment with IETF standards. For example, RFC 8754 does not specify the usage of "Tag" in 
 the SRH (it only introduces the Tag field in the SRH) but the ITU document marks 
 'Packet Tagging and Tag Processing' as mandatory. There are other similar misalignments.
 
