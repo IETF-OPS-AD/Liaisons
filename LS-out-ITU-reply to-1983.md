@@ -50,17 +50,31 @@ For specific questions related to a given SRv6-related specification, we encoura
 the use of the mailing list of the WG that produced that specification.
 
 OPS Area Directors: Mohamed Boucadair & Mahesh Jethanandani
-Routing Area Directors: Gunter Van de Velde, Jim Guichard, & Ketan Talaulikar
-INT Area Directors: Éric Vyncke & Erik Kline
-BMWG WG Chairs: Giuseppe Fioccola & Sarah Banks
-SRV6OPS WG Chairs: Daniel Voyer, Dhruv Dhody, & Weiqiang Cheng
-SPRING WG Chairs: Alvaro Retana, Bruno Decraene, &  Joel M. Halpern
-OPSAWG WG Chairs: Benoît Claise, Joe Clarke
-6MAN WG Chairs: Bob Hinden, Jen Linkova
 
-* [1] https://datatracker.ietf.org/liaison/1983/
-* [2] https://datatracker.ietf.org/wg/
-* [3] https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-srh-compression/
-* [4] https://datatracker.ietf.org/group/bmwg/about/
-* [5] https://datatracker.ietf.org/doc/draft-ietf-bmwg-sr-bench-meth/
-* [6] https://www.ietf.org/mailman/listinfo/bmwg
+Routing Area Directors: Gunter Van de Velde, Jim Guichard, & Ketan Talaulikar
+
+INT Area Directors: Éric Vyncke & Erik Kline
+
+BMWG WG Chairs: Giuseppe Fioccola & Sarah Banks
+
+SRV6OPS WG Chairs: Daniel Voyer, Dhruv Dhody, & Weiqiang Cheng
+
+SPRING WG Chairs: Alvaro Retana, Bruno Decraene, &  Joel M. Halpern
+
+OPSAWG WG Chairs: Benoît Claise & Joe Clarke
+
+6MAN WG Chairs: Bob Hinden & Jen Linkova
+
+# References:
+
+[1] https://datatracker.ietf.org/liaison/1983/
+
+[2] https://datatracker.ietf.org/wg/
+
+[3] https://datatracker.ietf.org/doc/draft-ietf-spring-srv6-srh-compression/
+
+[4] https://datatracker.ietf.org/group/bmwg/about/
+
+[5] https://datatracker.ietf.org/doc/draft-ietf-bmwg-sr-bench-meth/
+
+[6] https://www.ietf.org/mailman/listinfo/bmwg
