@@ -9,6 +9,7 @@ Requests for presentations to share issues or present your work update can be se
 We look forward to participation from the ITU on the BMWG WG mailing list and meetings from those in ITU interested in the work being done by the WG.
 
 Mohamed Boucadair & Mahesh Jethanandani
+
 OPS Area Directors
 
 # References:
