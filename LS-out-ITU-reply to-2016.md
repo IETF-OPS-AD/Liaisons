@@ -1,6 +1,6 @@
 We would like to thank the ITU-T SG11 for this update on the "Method for Verifying Conformance to SRv6" effort [1] and for sharing the plan to address the comments included in our previous reply [2].
  
-As indicated in our previous reply [2], we encourage the use of Benchmarking Methodology Working Group (BMWG) mailing list [3] as the most effective and expedient way of exchanging information,
+As indicated in [2], we encourage the use of Benchmarking Methodology Working Group (BMWG) mailing list [3] as the most effective and expedient way of exchanging information,
 answering questions, and progressing any work for future collaboration on these matters.
 
 We appreciate that the ITU-T SG11 encourage experts, who have questions pertaining to particular SRv6-related specifications and/or SR benchmarking methodology, to address them to the BMWG WG.
