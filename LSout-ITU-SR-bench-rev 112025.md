@@ -3,7 +3,7 @@ is about to be placed in the WG Last Call. This document may be relevant to the 
 
 The BMWG WG would like to request ITU-T SG to review the document and provide comments.
 
-Also, the BMWG WG encourages the use of IPPM WG mailing list [4] as the most effective and expedient way of exchanging information and answering questions.
+Also, the BMWG WG encourages the use of BMWG WG mailing list [4] as the most effective and expedient way of exchanging information and answering questions.
 
 OPS Area Director: Mohamed Boucadair
 
