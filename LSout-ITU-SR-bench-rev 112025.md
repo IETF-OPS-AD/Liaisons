@@ -7,7 +7,7 @@ Also, the BMWG WG encourages the use of BMWG WG mailing list [4] as the most eff
 
 OPS Area Director: Mohamed Boucadair
 
-IPPM Chairs: Giuseppe Fioccola & Sarah Banks
+BMWG Chairs: Giuseppe Fioccola & Sarah Banks
 
 
 * [1] https://datatracker.ietf.org/liaison/2017/
