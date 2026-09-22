@@ -12,7 +12,7 @@ The V6OPS WG encourage the use of V6OPS WG mailing list [3] as the most effectiv
 
 OPS Area Director: Mohamed Boucadair
 
-V6OPS Chairs: Marcus Ihlar & Thomas Graf
+V6OPS Chairs: Nick Buraglio & XiPeng Xiao
 
 * [1] https://datatracker.ietf.org/group/v6ops/about/
 * [2] https://datatracker.ietf.org/doc/draft-ma-v6ops-5g-ipv6only/
