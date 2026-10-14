@@ -1,4 +1,4 @@
-To: ITU, 3GPP, IEEE, BBF
+To: ITU, 3GPP, IEEE, BBF, ETSI TC NET
 
 For Information
 
