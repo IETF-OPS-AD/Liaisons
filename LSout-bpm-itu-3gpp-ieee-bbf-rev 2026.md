@@ -2,6 +2,17 @@ To: ITU, 3GPP, IEEE, BBF, ETSI TC NET
 
 For Information
 
+# Contact List
+
+* ITU: Check with Scott if we need to send two or one per SG?
+  * ITU-T	Scott Mansfield (scott.mansfield@ericsson.com/itu-t-liaison@ietf.org)
+  * ITU-T SG12	Rüdiger Geib
+* 3GPP: Charles Eckel (also help identify if this should be sent to SA2/SA3/SA5)
+* IEEE 802.1:	János Farkas/janos.farkas@ericsson.com/ieee-8021-liaison@ietf.org
+* BBF: Xueyan Song
+* ETSI TC NET
+  * NETsupport@etsi.org
+
 # LS Body
 
 The IETF has created a new  Working Group (WG) on Benchmarking & Performance Measurements (BPM) [1] to develop and maintain metrics, methodologies, and protocols that can be applied to the quality, performance, reliability, and scalability of data delivery services and applications running over public or private networks using IETF technologies. The methodologies cover data, control, and management planes and they apply to hardware, virtualized, and containerized network infrastructure (such as Data Center network fabrics, controllers, routers, and firewalls), including Network Management software systems and endpoints in production and lab environments.
