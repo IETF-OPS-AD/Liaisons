@@ -4,9 +4,10 @@ For Information
 
 # Contact List
 
-* ITU: Check with Scott if we need to send two or one per SG?
+* ITU: Check with Scott/Ruediger if we need to send two or one per SG?
   * ITU-T	Scott Mansfield (scott.mansfield@ericsson.com/itu-t-liaison@ietf.org)
   * ITU-T SG12	Rüdiger Geib
+  * List proposed by Rüdiger: SG11, SG12, and SG 15.
 * 3GPP: Charles Eckel (also help identify if this should be sent to SA2/SA3/SA5)
 * IEEE 802.1:	János Farkas/janos.farkas@ericsson.com/ieee-8021-liaison@ietf.org
 * BBF: Xueyan Song
