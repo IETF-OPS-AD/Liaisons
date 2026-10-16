@@ -12,6 +12,13 @@ For Information
 * BBF: Xueyan Song
 * ETSI TC NET
   * NETsupport@etsi.org
+  * TC NET officials (suggestion from Luis to include them in the LS)
+      * Vilalta Ricard	Chair	ricard.vilalta@cttc.es
+      * Featherstone Walter	Vice Chair	w_featherstone@apple.com
+      * Zeng Yu	Vice Chair	zengyu@chinatelecom.cn
+      * Kuno Yuya	Vice Chair	kunoyu@nttdocomo.com
+      * Cabanillas Rodríguez Lucía	Vice Chair	lucia.cabanillasrodriguez@telefonica.com
+
 
 # LS Body
 
