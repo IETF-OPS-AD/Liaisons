@@ -27,7 +27,7 @@ The IETF has created a new  Working Group (WG) on Benchmarking & Performance Mea
 
 The BPM WG is the successor of IETF BMWG and IPPM WGs. BPM will thus be the main group for generic performance measurement metrics, methodologies, and protocols development within the IETF. Refer to [1] for an overview of its current milestones and topics.
 
-We look forward to fruitful collaboration between your group and the new BPM WG on Benchmarking & Performance matters. The BPM WG Chairs would be delighted to present the work scope of this new WG during one of your upcoming meetings.
+We look forward to fruitful collaboration between your group and the new BPM WG on Benchmarking & Performance matters. The BPM WG Chairs would be delighted to present the BMP work scope during one of your upcoming meetings.
 
 The BPM WG encourages the use of BPM WG mailing list [2] as the most effective and expedient way of exchanging information, answering questions, and progressing any work.
 
